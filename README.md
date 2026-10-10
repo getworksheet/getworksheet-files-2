@@ -1,2 +1,3 @@
 # getworksheet-files-2
-Saved coloring pages (user library) for getworksheet.co, served via GitHub Pages
+
+Saved coloring pages from getworksheet.co user libraries (WebP), served by GitHub Pages.
